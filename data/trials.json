@@ -1,0 +1,910 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-10-22T14:04:11.873624Z",
+  "scope": "中文精选，非全球全部试验；包含重点研发项目及研究进展卡片关联的药物 / 生物干预登记。登记状态与研究结论分别呈现。",
+  "trials": [
+    {
+      "nctId": "NCT04297683",
+      "title": "HEALEY ALS Platform Trial - Master Protocol",
+      "interventions": [
+        "Zilucoplan",
+        "Verdiperstat",
+        "CNM-Au8",
+        "Pridopidine",
+        "SLS-005 Trehalose",
+        "ABBV-CLS-7262",
+        "DNL343",
+        "NUZ-001"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePosted": "2026-07-21",
+      "hasResults": false,
+      "sponsor": "Merit E. Cudkowicz, MD",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04297683",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT05021536",
+      "title": "Phase III Trial of AMX0035 for Amyotrophic Lateral Sclerosis Treatment",
+      "interventions": [
+        "AMX0035"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE3"
+      ],
+      "status": "UNKNOWN",
+      "lastUpdatePosted": "2024-08-14",
+      "hasResults": false,
+      "sponsor": "Amylyx Pharmaceuticals Inc.",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05021536",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT06307301",
+      "title": "Study in ALS With Abatacept & IL-2",
+      "interventions": [
+        "Abatacept Injection [Orencia] and Proleukin (aldesleukin)"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE1"
+      ],
+      "status": "COMPLETED",
+      "lastUpdatePosted": "2026-04-22",
+      "hasResults": false,
+      "sponsor": "The Methodist Hospital Research Institute",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06307301",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT02166944",
+      "title": "Tamoxifen Treatment in Patients With Motor Neuron Disease",
+      "interventions": [
+        "tamoxifen 40 mg daily for one year"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis",
+        "ALS Functional Ration Scale",
+        "TAR-DNA-binding Protein-43",
+        "Tamoxifen",
+        "mTOR"
+      ],
+      "phase": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "status": "COMPLETED",
+      "lastUpdatePosted": "2019-09-19",
+      "hasResults": false,
+      "sponsor": "Taipei Medical University Shuang Ho Hospital",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT02166944",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT04993755",
+      "title": "A Phase 2a Study of TPN-101 in Patients With C9ORF72 ALS/FTD",
+      "interventions": [
+        "TPN-101, 400 mg/day",
+        "Placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis",
+        "Frontotemporal Dementia"
+      ],
+      "phase": [
+        "PHASE2"
+      ],
+      "status": "COMPLETED",
+      "lastUpdatePosted": "2026-04-03",
+      "hasResults": false,
+      "sponsor": "Transposon Therapeutics, Inc.",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04993755",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT04768972",
+      "title": "FUSION: A Study to Evaluate the Efficacy, Safety, Pharmacokinetics and Pharmacodynamics of ION363 in Amyotrophic Lateral Sclerosis Participants With Fused in Sarcoma Mutations (FUS-ALS)",
+      "interventions": [
+        "ION363",
+        "Placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE3"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePosted": "2026-07-21",
+      "hasResults": false,
+      "sponsor": "Ionis Pharmaceuticals, Inc.",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04768972",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT05633459",
+      "title": "A Study Evaluating the Safety and Tolerability of QRL-201 in ALS",
+      "interventions": [
+        "Multiple ascending doses of QRL-201",
+        "Multiple ascending doses of Placebo",
+        "QRL-201",
+        "Placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE1"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePosted": "2026-05-15",
+      "hasResults": false,
+      "sponsor": "QurAlis Corporation",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05633459",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT06665165",
+      "title": "AMX0114 in Adult Participants With Amyotrophic Lateral Sclerosis",
+      "interventions": [
+        "AMX0114"
+      ],
+      "conditions": [
+        "ALS"
+      ],
+      "phase": [
+        "PHASE1"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2026-04-14",
+      "hasResults": false,
+      "sponsor": "Amylyx Pharmaceuticals Inc.",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06665165",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT06556394",
+      "title": "A Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of RAG-17 in Subjects With Amyotrophic Lateral Sclerosis (ALS) With Superoxide Dismutase Type 1 (SOD1) Gene Mutation",
+      "interventions": [
+        "RAG-17",
+        "Placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE1"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2025-01-08",
+      "hasResults": false,
+      "sponsor": "Ractigen Therapeutics.",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06556394",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT06973629",
+      "title": "Efficacy and Safety of MSC-NTF (NurOwn) in Participants With Early Symptomatic ALS and Moderate Disease Presentation in ALS (ENDURANCE STUDY)",
+      "interventions": [
+        "Debamestrocel - MSC-NTF (NurOwn)",
+        "Placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis (ALS)",
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE3"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePosted": "2025-05-22",
+      "hasResults": false,
+      "sponsor": "Brainstorm-Cell Therapeutics",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06973629",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT07174492",
+      "title": "Efficacy and Safety of Masitinib in Combination With SoC Versus Placebo in the Treatment of ALS Patients",
+      "interventions": [
+        "Masitinib 4.5 mg/kg/day",
+        "Placebo",
+        "Riluzole (100 mg)"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis (ALS)"
+      ],
+      "phase": [
+        "PHASE3"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePosted": "2025-10-03",
+      "hasResults": false,
+      "sponsor": "AB Science",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07174492",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT06100276",
+      "title": "Safety, Tolerability, and Exploratory Efficacy Study of Intrathecally Administered Gene Therapy AMT-162 in Adult Participants With SOD1 Amyotrophic Lateral Sclerosis (SOD1-ALS)",
+      "interventions": [
+        "AMT-162"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePosted": "2025-10-22",
+      "hasResults": false,
+      "sponsor": "UniQure Biopharma B.V.",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06100276",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT06351592",
+      "title": "First in Human (FIH) Study of ALN-SOD in Adult Participants With Amyotrophic Lateral Sclerosis Associated With Mutation in the SOD1 Gene (SOD1-ALS)",
+      "interventions": [
+        "ALN-SOD",
+        "Placebo (PB)"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis (ALS)",
+        "Mutation in the Superoxide Dismutase-1 (SOD1) Gene"
+      ],
+      "phase": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2026-09-11",
+      "hasResults": false,
+      "sponsor": "Regeneron Pharmaceuticals",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06351592",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT07077668",
+      "title": "Extended Study of RAG-17 in the Treatment of Amyotrophic Lateral Sclerosis Patients With SOD1 Gene Mutation",
+      "interventions": [
+        "A sterile aqueous solution of RAG - 17 preparation (sodium salt)"
+      ],
+      "conditions": [
+        "ALS (Amyotrophic Lateral Sclerosis)"
+      ],
+      "phase": [
+        "EARLY_PHASE1"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePosted": "2025-07-22",
+      "hasResults": false,
+      "sponsor": "Beijing Tiantan Hospital",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07077668",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT07080801",
+      "title": "Study on the Safety and Efficacy of RAG-21 in the Treatment of Amyotrophic Lateral Sclerosis Patients With FUS Gene Mutations",
+      "interventions": [
+        "RAG-21"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis (ALS)"
+      ],
+      "phase": [
+        "EARLY_PHASE1"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePosted": "2025-07-23",
+      "hasResults": false,
+      "sponsor": "Beijing Tiantan Hospital",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07080801",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT07294144",
+      "title": "Tofersen in Non-SOD1 ALS",
+      "interventions": [
+        "Tofersen"
+      ],
+      "conditions": [
+        "ALS (Amyotrophic Lateral Sclerosis)"
+      ],
+      "phase": [
+        "PHASE2"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2026-06-25",
+      "hasResults": false,
+      "sponsor": "Washington University School of Medicine",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07294144",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT07322003",
+      "title": "Pridopidine Phase 3 Study to Evaluate Efficacy and Safety in ALS",
+      "interventions": [
+        "Pridopidine",
+        "Placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE3"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2026-10-06",
+      "hasResults": false,
+      "sponsor": "Prilenia",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07322003",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT07410806",
+      "title": "HEALEY ALS Platform Trial - Regimen I NUZ-001",
+      "interventions": [
+        "NUZ-001",
+        "Matching placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis (ALS)"
+      ],
+      "phase": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePosted": "2026-07-20",
+      "hasResults": false,
+      "sponsor": "Merit E. Cudkowicz, MD",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07410806",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT07100119",
+      "title": "A Study of LY4256984 in Participants With Sporadic Amyotrophic Lateral Sclerosis",
+      "interventions": [
+        "LY4256984",
+        "Placebo"
+      ],
+      "conditions": [
+        "ALS (Amyotrophic Lateral Sclerosis)"
+      ],
+      "phase": [
+        "PHASE1"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2026-03-06",
+      "hasResults": false,
+      "sponsor": "Eli Lilly and Company",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07100119",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT07118319",
+      "title": "The Safety, Tolerability and Preliminary Efficacy of Derived Motor Neuron Progenitor Cells (XS228CN) in Subjects With Amyotrophic Lateral Sclerosis",
+      "interventions": [
+        "Human Allogeneic Induced Pluripotent Stem Cells (iPSCs) -Derived Motor Neuron Progenitor Cells (XS228CN)"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis (ALS)"
+      ],
+      "phase": [
+        "PHASE1"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2025-11-21",
+      "hasResults": false,
+      "sponsor": "XellSmart Bio-Pharmaceutical (Suzhou) Co., Ltd.",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07118319",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT06765564",
+      "title": "Clinical Study of Induced Pluripotent Stem Cells Derived Motor Neuron Precursor Cell Therapy for Amyotrophic Lateral Sclerosis (ALS)",
+      "interventions": [
+        "iPSC-MNP"
+      ],
+      "conditions": [
+        "ALS"
+      ],
+      "phase": [
+        "NA"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2025-01-09",
+      "hasResults": false,
+      "sponsor": "Shanghai East Hospital",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06765564",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT06392126",
+      "title": "Personalized Antisense Oligonucleotide Therapy for A Single Participant With CHCHD10 ALS",
+      "interventions": [
+        "nL-CHCHD-001"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePosted": "2026-07-13",
+      "hasResults": false,
+      "sponsor": "n-Lorem Foundation",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06392126",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT06977451",
+      "title": "Personalized Antisense Oligonucleotide for a Single Participant With CHCHD10 ALS",
+      "interventions": [
+        "nL-CHCHD-001"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePosted": "2026-07-13",
+      "hasResults": false,
+      "sponsor": "n-Lorem Foundation",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06977451",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT04057898",
+      "title": "Evaluation of MN-166 (Ibudilast) for 12 Months Followed by an Open-label Extension for 6 Months in Patients With ALS",
+      "interventions": [
+        "MN-166",
+        "placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePosted": "2026-03-06",
+      "hasResults": false,
+      "sponsor": "MediciNova",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04057898",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT04220190",
+      "title": "RAPA-501 Therapy for ALS",
+      "interventions": [
+        "RAPA-501 Autologous T stem cells"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2026-09-29",
+      "hasResults": false,
+      "sponsor": "Rapa Therapeutics LLC",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04220190",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT05407324",
+      "title": "Dazucorilant in Patients With Amyotrophic Lateral Sclerosis",
+      "interventions": [
+        "Dazucorilant 300 mg",
+        "Dazucorilant 150 mg",
+        "Dazucorilant"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE2"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePosted": "2026-09-24",
+      "hasResults": false,
+      "sponsor": "Corcept Therapeutics",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05407324",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT06643481",
+      "title": "A Clinical Trial to Learn About the Effects of VHB937 in People With Amyotrophic Lateral Sclerosis (ALS)",
+      "interventions": [
+        "VHB937"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis (ALS)"
+      ],
+      "phase": [
+        "PHASE2"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePosted": "2026-07-07",
+      "hasResults": false,
+      "sponsor": "Novartis Pharmaceuticals",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06643481",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT07161999",
+      "title": "Study of COYA 302 for the Treatment of ALS",
+      "interventions": [
+        "COYA 302",
+        "Placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis (ALS)"
+      ],
+      "phase": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePosted": "2026-10-13",
+      "hasResults": false,
+      "sponsor": "Coya Therapeutics",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07161999",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT06126315",
+      "title": "Trial on the Biological and Clinical Effects of Acetyl-L-carnitine in ALS",
+      "interventions": [
+        "Acetyl-l-carnitine",
+        "Placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2026-10-06",
+      "hasResults": false,
+      "sponsor": "Mario Negri Institute for Pharmacological Research",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06126315",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT07688239",
+      "title": "The BANYAN Trial, an ALS MyMatch Trial Evaluating Safety, Biomarker Activity, and Microglial Activation of Nasal Foralumab",
+      "interventions": [
+        "Foralumab Nasal",
+        "Placebo"
+      ],
+      "conditions": [
+        "ALS (Amyotrophic Lateral Sclerosis)",
+        "ALS - Amyotrophic Lateral Sclerosis",
+        "ALS"
+      ],
+      "phase": [
+        "PHASE2"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePosted": "2026-10-21",
+      "hasResults": false,
+      "sponsor": "Tiziana Life Sciences LTD",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07688239",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT07660614",
+      "title": "A Study of LTX-002 in Adult Participants With Amyotrophic Lateral Sclerosis",
+      "interventions": [
+        "LTX-002"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2026-08-18",
+      "hasResults": false,
+      "sponsor": "Leal Therapeutics, Inc",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07660614",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT02623699",
+      "title": "An Efficacy, Safety, Tolerability, Pharmacokinetics and Pharmacodynamics Study of BIIB067 (Tofersen) in Adults With Inherited Amyotrophic Lateral Sclerosis (ALS)",
+      "interventions": [
+        "Tofersen",
+        "Placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE3"
+      ],
+      "status": "COMPLETED",
+      "lastUpdatePosted": "2023-07-28",
+      "hasResults": true,
+      "sponsor": "Biogen",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT02623699",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT03127267",
+      "title": "Efficacy and Safety of Masitinib Versus Placebo in the Treatment of ALS Patients",
+      "interventions": [
+        "Masitinib (6.0)",
+        "Riluzole",
+        "Placebo",
+        "Masitinib (4.5)"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE3"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2025-09-12",
+      "hasResults": false,
+      "sponsor": "AB Science",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03127267",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT03652805",
+      "title": "A Study of IPL344 in the Treatment of ALS Patients",
+      "interventions": [
+        "IPL344"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "status": "SUSPENDED",
+      "lastUpdatePosted": "2025-01-10",
+      "hasResults": false,
+      "sponsor": "Immunity Pharma Ltd.",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03652805",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT03755167",
+      "title": "A Follow up Study to Protocol 101/2 - Continued Treatment by IPL344 IV",
+      "interventions": [
+        "IPL344"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis (ALS)"
+      ],
+      "phase": [
+        "PHASE2"
+      ],
+      "status": "SUSPENDED",
+      "lastUpdatePosted": "2025-01-10",
+      "hasResults": false,
+      "sponsor": "Immunity Pharma Ltd.",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT03755167",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT04098406",
+      "title": "Therapeutic Nanocatalysis to Slow Disease Progression of Amyotrophic Lateral Sclerosis (ALS)",
+      "interventions": [
+        "CNM-Au8",
+        "Placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE2"
+      ],
+      "status": "COMPLETED",
+      "lastUpdatePosted": "2024-07-03",
+      "hasResults": true,
+      "sponsor": "Clene Nanomedicine",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04098406",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT04414345",
+      "title": "HEALEY ALS Platform Trial - Regimen C CNM-Au8",
+      "interventions": [
+        "CNM-Au8",
+        "Matching Placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "status": "COMPLETED",
+      "lastUpdatePosted": "2023-07-25",
+      "hasResults": true,
+      "sponsor": "Merit E. Cudkowicz, MD",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04414345",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT04615923",
+      "title": "HEALEY ALS Platform Trial - Regimen D Pridopidine",
+      "interventions": [
+        "Pridopidine",
+        "Matching Placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "status": "COMPLETED",
+      "lastUpdatePosted": "2023-08-23",
+      "hasResults": true,
+      "sponsor": "Merit E. Cudkowicz, MD",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04615923",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT04856982",
+      "title": "Study to Learn If Tofersen (BIIB067) Can Delay ALS Symptoms and About Its Safety in Adults With a SOD1 Gene Mutation Who Have Not Yet Developed ALS Symptoms",
+      "interventions": [
+        "Tofersen",
+        "Placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis Associated With a SOD1 Gene Mutation"
+      ],
+      "phase": [
+        "PHASE3"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePosted": "2026-10-20",
+      "hasResults": false,
+      "sponsor": "Biogen",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04856982",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT04944784",
+      "title": "A Study to Evaluate the Efficacy and Safety of Reldesemtiv in Patients With Amyotrophic Lateral Sclerosis (ALS)",
+      "interventions": [
+        "Reldesemtiv",
+        "Placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE3"
+      ],
+      "status": "TERMINATED",
+      "lastUpdatePosted": "2024-12-05",
+      "hasResults": true,
+      "sponsor": "Cytokinetics",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04944784",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT05039099",
+      "title": "A Study to Evaluate, Safety, Tolerability, and PK of AP-101 in Participants With ALS",
+      "interventions": [
+        "AP-101",
+        "Placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE2"
+      ],
+      "status": "COMPLETED",
+      "lastUpdatePosted": "2026-09-30",
+      "hasResults": true,
+      "sponsor": "AL-S Pharma",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05039099",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT05357950",
+      "title": "A Phase IIb, Multi-Center, Multinational, Double-Blind, Placebo-Controlled Study, With an Open Label Extension, to Evaluate Safety, Tolerability and Efficacy of PrimeC in Subjects With ALS",
+      "interventions": [
+        "PrimeC",
+        "Placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis",
+        "ALS"
+      ],
+      "phase": [
+        "PHASE2"
+      ],
+      "status": "COMPLETED",
+      "lastUpdatePosted": "2025-09-05",
+      "hasResults": false,
+      "sponsor": "NeuroSense Therapeutics Ltd.",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05357950",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT05740813",
+      "title": "HEALEY ALS Platform Trial - Regimen F ABBV-CLS-7262",
+      "interventions": [
+        "ABBV-CLS-7262 Dose 1",
+        "ABBV-CLS-7262 Dose 2",
+        "Matching Placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "status": "COMPLETED",
+      "lastUpdatePosted": "2025-11-14",
+      "hasResults": true,
+      "sponsor": "Merit E. Cudkowicz, MD",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05740813",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT05842941",
+      "title": "HEALEY ALS Platform Trial - Regimen G DNL343",
+      "interventions": [
+        "DNL343",
+        "Matching Placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "status": "COMPLETED",
+      "lastUpdatePosted": "2026-01-28",
+      "hasResults": true,
+      "sponsor": "Merit E. Cudkowicz, MD",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05842941",
+      "studyType": "INTERVENTIONAL"
+    }
+  ]
+}

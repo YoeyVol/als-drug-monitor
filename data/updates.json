@@ -1,0 +1,522 @@
+{
+  "schemaVersion": 1,
+  "lastUpdated": "2026-10-22",
+  "coverage": "首轮精选覆盖已上市与撤市药物、重要在研治疗和部分药物 / 生物干预试验，不是全球全部 ALS 研究清单。监管信息重点为美国 FDA；招募状态以 ClinicalTrials.gov 快照单独展示，研究结论以所列来源为准。",
+  "items": [
+    {
+      "id": "cnm-au8-nda-2026",
+      "drug": "CNM-Au8",
+      "category": "regulatory",
+      "phase": "研究性药物；II 期 RESCUE-ALS 等数据；公司称正筹备确证性 III 期 RESTORE-ALS",
+      "regulatoryStatus": "Clene 于 2026 年 10 月向 FDA 提交寻求加速批准的 NDA；截至 2026-10-22 是已提交/待审，不是 FDA 批准。",
+      "findings": "公司称申请依据包括 NfL 生物标志物数据及临床结局。FDA 2026 新分子药批准清单截至 10 月 20 日未列 CNM-Au8；RESCUE-ALS 登记为已完成 II 期研究。",
+      "evidenceType": "申办方 · NDA 提交",
+      "sourceDate": "2026-10-19",
+      "checkedAt": "2026-10-22",
+      "nctIds": [
+        "NCT04098406"
+      ],
+      "caveat": "NDA 提交是公司申报事件，不代表 FDA 已受理、批准或认定有效。现有公告是申办方陈述；应等待 FDA 正式行动及完整临床证据。",
+      "sources": [
+        {
+          "title": "Clene Announces New Drug Application Submission to FDA for CNM-Au8",
+          "url": "https://invest.clene.com/news-releases/news-release-details/clene-announces-new-drug-application-submission-fda-cnm-au8/"
+        },
+        {
+          "title": "ClinicalTrials.gov: RESCUE-ALS, NCT04098406",
+          "url": "https://clinicaltrials.gov/study/NCT04098406"
+        },
+        {
+          "title": "FDA Novel Drug Approvals for 2026",
+          "url": "https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026"
+        }
+      ]
+    },
+    {
+      "id": "pridopidine-phase3-registration",
+      "drug": "Pridopidine · 新 III 期登记",
+      "category": "pipeline",
+      "phase": "III 期 · 以登记信息为准",
+      "regulatoryStatus": "在研治疗；进入 III 期及登记为招募中，不等于获得 ALS 上市批准。",
+      "findings": "ClinicalTrials.gov 已登记新的 pridopidine III 期随机研究（NCT07322003），本轮读取状态为“招募中”。这更新了较早结果报告中仅处于规划阶段的研发进度；新试验尚未在注册库上传结果。",
+      "evidenceType": "ClinicalTrials.gov · 新试验",
+      "sourceDate": "2026-10-06",
+      "checkedAt": "2026-10-22",
+      "nctIds": [
+        "NCT07322003"
+      ],
+      "caveat": "本条仅说明新试验登记与招募状态，不能作为疗效证据。较早 HEALEY 随机试验的总体主要终点未显示获益，见对应研究卡片。",
+      "sources": [
+        {
+          "title": "ClinicalTrials.gov：Pridopidine III 期研究 / NCT07322003",
+          "url": "https://clinicaltrials.gov/study/NCT07322003"
+        }
+      ]
+    },
+    {
+      "id": "foralumab-banyan-2026-09",
+      "drug": "Foralumab 鼻用抗体 · BANYAN",
+      "category": "pipeline",
+      "phase": "II 期登记 / MyMatch 早期试验",
+      "regulatoryStatus": "在研治疗；启动试验不等于获批或证明有效。",
+      "findings": "Mass General Brigham 于 2026-09-28 宣布 BANYAN 试验首位参与者已接受研究药物。该研究关注安全性及 TSPO-PET、免疫细胞等生物学指标，目前这份公告不提供 ALS 临床疗效结果。",
+      "evidenceType": "研究机构 · 试验启动",
+      "sourceDate": "2026-09-28",
+      "checkedAt": "2026-10-22",
+      "nctIds": [
+        "NCT07688239"
+      ],
+      "caveat": "存在来源差异：研究机构公告称已开始给药，但 2026-10-21 更新的注册记录仍标记“尚未招募”。两者分别保留，入组情况应向研究中心核实，不能据公告推断仍有名额。",
+      "sources": [
+        {
+          "title": "Mass General Brigham：BANYAN 首位参与者接受研究药物（2026-09-28）",
+          "url": "https://www.massgeneralbrigham.org/en/newsroom/first-participant-enrolled-in-healey-als-mymatch-banyan-trial"
+        },
+        {
+          "title": "ClinicalTrials.gov：BANYAN / NCT07688239",
+          "url": "https://clinicaltrials.gov/study/NCT07688239"
+        }
+      ]
+    },
+    {
+      "id": "pipeline-primec-ciprofloxacin-celecoxib",
+      "drug": "PrimeC (ciprofloxacin/celecoxib缓释复方)",
+      "category": "pipeline",
+      "phase": "Phase 2b PARADIGM完成；FDA许可启动Phase 3但截至2026-09仍在准备/调整策略",
+      "regulatoryStatus": "本条来源不构成 ALS 上市批准；当前为在研治疗。",
+      "findings": "68人随机Phase 2b论文显示6个月ALSFRS-R组间差2.23分（95%CI −0.61至5.07，P=.12），未达显著；18个月持续治疗对比存在交叉治疗，功能及并发症信号属探索性。2026-06公司宣布主要生物标志物TDP-43降低；2026-09 SEC披露称Phase 3设计和融资策略仍在优化，并计划2026年12月向加拿大提交NDS。",
+      "evidenceType": "论文 / 申办方 · 研发动态",
+      "sourceDate": "2026-09-25",
+      "checkedAt": "2026-10-22",
+      "nctIds": [
+        "NCT05357950"
+      ],
+      "caveat": "随机期临床功能差异未显著；18个月比较受安慰剂组交叉用药影响。TDP-43终点是公司2026年公告的生物标志物结果，不能等同于临床疗效或批准。Phase 3启动仍取决于资金及监管对调整设计的意见。",
+      "sources": [
+        {
+          "title": "Safety and Efficacy of PrimeC in Amyotrophic Lateral Sclerosis: PARADIGM Randomized Clinical Trial (JAMA Neurology)",
+          "url": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2846474"
+        },
+        {
+          "title": "NeuroSense Achieves Primary Endpoint in Phase 2b ALS Study with Reduction of TDP-43",
+          "url": "https://www.neurosense-tx.com/from_the_media/neurosense-achieves-primary-endpoint-in-phase-2b-als-study-with-statistically-significant-reduction-of-tdp-43-the-defining-pathological-hallmark-of-als/"
+        },
+        {
+          "title": "NeuroSense Provides Business Update and Progress for the First Half of 2026 (SEC filing)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1875091/000121390026103534/ea030656401ex99-1.htm"
+        }
+      ]
+    },
+    {
+      "id": "ulefnersen-fusion-2026",
+      "drug": "Ulefnersen（Jacifusen / ION363）· FUSION",
+      "category": "pipeline",
+      "phase": "研究性药物；III 期 FUSION",
+      "regulatoryStatus": "截至 2026-10-22 未获 FDA 批准。申办方 2026-09-22 报告积极 topline，并称将与 FDA 讨论潜在申报路径；ClinicalTrials.gov 当时尚未发布试验结果。",
+      "findings": "Ionis/Otsuka 报告主要终点（联合秩分析：功能、救援治疗与生存相关指标）达到统计显著，P=0.0005；受试者主分析人群 N=73。公司称部分次要终点亦有显著改善。",
+      "evidenceType": "申办方 · III 期顶线结果",
+      "sourceDate": "2026-09-22",
+      "checkedAt": "2026-10-22",
+      "nctIds": [
+        "NCT04768972"
+      ],
+      "caveat": "目前是公司发布的 topline，不是同行评审全文或 FDA 审评结论；具体效应量、完整安全性和正式申报状态待公开数据/监管更新。",
+      "sources": [
+        {
+          "title": "Ionis announces positive topline results from Phase 3 FUSION study of ulefnersen",
+          "url": "https://ir.ionis.com/news-releases/news-release-details/ionis-announces-positive-topline-results-phase-3-fusion-study"
+        },
+        {
+          "title": "ClinicalTrials.gov: FUSION, NCT04768972",
+          "url": "https://clinicaltrials.gov/study/NCT04768972"
+        }
+      ]
+    },
+    {
+      "id": "pipeline-nuz-001",
+      "drug": "NUZ-001",
+      "category": "pipeline",
+      "phase": "Phase 2/3；已开始招募，登记显示Active, not recruiting",
+      "regulatoryStatus": "本条来源不构成 ALS 上市批准；当前为在研治疗。",
+      "findings": "HEALEY Regimen I于2026-02-25开始，登记目标240人、口服36周，主要评估ALSFRS-R与生存；截至2026-07-20登记为Active, not recruiting，Neurizon称250人已入组。FDA解除临床暂停并允许进入平台试验是监管许可，不是疗效结果。",
+      "evidenceType": "登记 / 申办方 · 试验进度",
+      "sourceDate": "2026-07-20",
+      "checkedAt": "2026-10-22",
+      "nctIds": [
+        "NCT07410806",
+        "NCT04297683"
+      ],
+      "caveat": "目前尚无该HEALEY臂的结果；公司此前关于开放标签延长研究的生存观察不能替代随机对照疗效证据。",
+      "sources": [
+        {
+          "title": "HEALEY ALS Platform Trial - Regimen I NUZ-001 (ClinicalTrials.gov)",
+          "url": "https://clinicaltrials.gov/study/NCT07410806"
+        },
+        {
+          "title": "NUZ-001 Clinical Trials and Expanded Access (Neurizon Therapeutics)",
+          "url": "https://www.neurizon.com/clinical-trials/"
+        },
+        {
+          "title": "FDA Lifts Clinical Hold on NUZ-001 (Neurizon/PR Newswire)",
+          "url": "https://www.prnewswire.com/news-releases/fda-lifts-clinical-hold-on-nuz-001-302575590.html"
+        }
+      ]
+    },
+    {
+      "id": "amx0114-lumina-2026-06",
+      "drug": "AMX0114 · LUMINA",
+      "category": "pipeline",
+      "phase": "I 期 · 剂量递增",
+      "regulatoryStatus": "在研反义寡核苷酸；FDA 快速通道资格不是上市批准。",
+      "findings": "Amylyx 在 2026-06-23 公告中报告，最低剂量 12.5 mg 队列（12 人）未出现药物相关严重不良事件或严重神经系统不良事件；NfL、pNFH 和 SBDP-145 等指标接近基线。这些结果支持继续考察更高剂量，不是疗效阳性结论。",
+      "evidenceType": "申办方 · 早期安全性",
+      "sourceDate": "2026-06-23",
+      "checkedAt": "2026-10-22",
+      "nctIds": [
+        "NCT06665165"
+      ],
+      "caveat": "资料为申办方会议数据公告。样本小、剂量低、随访有限，不能证明延缓功能下降或延长生存；公告中的剂量队列入组状态仅对应公告当时。",
+      "sources": [
+        {
+          "title": "Amylyx：ENCALS 2026 LUMINA I 期数据公告（2026-06-23）",
+          "url": "https://www.amylyx.com/news/amylyx-pharmaceuticals-to-present-data-from-first-in-human-dose-ranging-phase-1-lumina-trial-of-amx0114-in-als-at-encals-2026"
+        },
+        {
+          "title": "ClinicalTrials.gov：LUMINA / NCT06665165",
+          "url": "https://clinicaltrials.gov/study/NCT06665165"
+        }
+      ]
+    },
+    {
+      "id": "pipeline-qrl-201",
+      "drug": "QRL-201",
+      "category": "pipeline",
+      "phase": "ANQUR 早期剂量研究；登记分期为 I 期",
+      "regulatoryStatus": "本条来源不构成 ALS 上市批准；当前为在研治疗。",
+      "findings": "2026年公司公布69人ANQUR中期分析：报告了STMN2靶点参与、低剂量组pNfH下降，以及ALSFRS-R减缓趋势；排除基线NfL最高者的事后分析在6个月时达到统计学显著。公司称安全性总体可接受，2027年拟推进关键性Phase 3。",
+      "evidenceType": "申办方 · 中期分析",
+      "sourceDate": "2026-02-23",
+      "checkedAt": "2026-10-22",
+      "nctIds": [
+        "NCT05633459"
+      ],
+      "caveat": "中期结果主要来自公司披露，特定亚组结果为事后分析；登记记录尚无正式结果发布，Phase 3为筹备计划而非已启动或确证有效。",
+      "sources": [
+        {
+          "title": "QurAlis Demonstrates Effects on Disease Progression and Target Engagement in ANQUR Clinical Trial of QRL-201",
+          "url": "https://www.quralis.com/news/quralis-demonstrates-effects-on-disease-progression-and-target-engagement-in-anqur-clinical-trial-of-qrl-201-a-first-in-class-precision-medicine-in-development-for-sporadic-als/"
+        },
+        {
+          "title": "A Study Evaluating the Safety and Tolerability of QRL-201 in ALS (ClinicalTrials.gov)",
+          "url": "https://clinicaltrials.gov/study/NCT05633459"
+        }
+      ]
+    },
+    {
+      "id": "pipeline-dnl343",
+      "drug": "DNL343",
+      "category": "pipeline",
+      "phase": "Phase 2/3 平台臂；已完成",
+      "regulatoryStatus": "本条来源不构成 ALS 上市批准；当前为在研治疗。",
+      "findings": "HEALEY 随机对照研究的 24 周主要终点疾病进展比值为 1.04（95% 可信区间 0.83–1.32），次要功能结局未显著改善。2026 年同行评审论文结论为未显示减缓 ALS 进展；不良事件发生率与安慰剂相近。",
+      "evidenceType": "同行评审 · 随机试验",
+      "sourceDate": "2026-01-28",
+      "checkedAt": "2026-10-22",
+      "nctIds": [
+        "NCT05842941",
+        "NCT04297683"
+      ],
+      "caveat": "通路机制及早期靶点作用证据没有转化为本研究的临床效益；不要把生物学合理性写成疗效。",
+      "sources": [
+        {
+          "title": "DNL343 and Disease Progression in Amyotrophic Lateral Sclerosis (JAMA Network Open)",
+          "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2854318"
+        },
+        {
+          "title": "HEALEY ALS Platform Trial - Regimen G DNL343 (ClinicalTrials.gov)",
+          "url": "https://clinicaltrials.gov/study/NCT05842941"
+        }
+      ]
+    },
+    {
+      "id": "pipeline-ap-101",
+      "drug": "AP-101",
+      "category": "pipeline",
+      "phase": "Phase 2a完成；公司准备确证性Phase 3",
+      "regulatoryStatus": "本条来源不构成 ALS 上市批准；当前为在研治疗。",
+      "findings": "全球研究共73人，主要安全性/耐受性终点达成。2025年公司报告探索性复合分析提示早期用药相较先安慰剂后用药组有生存及通气支持信号，且部分SOD1突变或错折叠SOD1较高患者出现功能/NfL信号；公司计划与监管方讨论后续Phase 3。",
+      "evidenceType": "申办方 · 探索性结果",
+      "sourceDate": "2025-12-05",
+      "checkedAt": "2026-10-22",
+      "nctIds": [
+        "NCT05039099"
+      ],
+      "caveat": "生存、功能和生物标志物属于探索性分析；主要终点是安全性，不应表述为已证实延长生存。研究注册于2026-09-30显示已完成并已发布结果。",
+      "sources": [
+        {
+          "title": "AL-S Pharma Reports Positive Results from Phase 2 Study of AP-101",
+          "url": "https://neurimmune.com/news/al-s-pharma-reports-positive-results-from-phase-2-study-of-ap-101-for-the-treatment-of-als-supporting-plans-for-a-confirmatory-phase-3-study"
+        },
+        {
+          "title": "A Study to Evaluate Safety, Tolerability, and PK of AP-101 in ALS (ClinicalTrials.gov)",
+          "url": "https://clinicaltrials.gov/study/NCT05039099"
+        }
+      ]
+    },
+    {
+      "id": "pipeline-masitinib",
+      "drug": "Masitinib",
+      "category": "pipeline",
+      "phase": "III 期确证研究；登记状态见试验区",
+      "regulatoryStatus": "本条来源不构成 ALS 上市批准；当前为在研治疗。",
+      "findings": "大型Phase 3 AB19001计划约495人，评估加用masitinib与安慰剂对ALSFRS-R的48周变化，登记估计2027年底完成，尚无结果。较早随机研究的预设Normal Progressor高剂量亚组中ALSFRS-R约减缓27%，但整体/更宽人群未见同样显著效应，故仍需确证。",
+      "evidenceType": "登记 / 同行评审",
+      "sourceDate": "2025-09-12",
+      "checkedAt": "2026-10-22",
+      "nctIds": [
+        "NCT03127267"
+      ],
+      "caveat": "已发表的阳性结果集中于特定预设亚组；整体人群结果不一致，confirmatory Phase 3仍未读出。临床登记的Recruiting状态是最后一次更新状态，不保证实时招募。 本卡的试验进度依据 2025-09-12 记录，不代表今日实时名额；后续新方案需结合最新 NCT 单独阅读。",
+      "sources": [
+        {
+          "title": "Efficacy and Safety of Masitinib Versus Placebo in ALS Patients (ClinicalTrials.gov)",
+          "url": "https://clinicaltrials.gov/study/NCT03127267"
+        },
+        {
+          "title": "Masitinib as an add-on therapy to riluzole in ALS: a randomized clinical trial (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/31280619/"
+        }
+      ]
+    },
+    {
+      "id": "amx0035-withdrawal",
+      "drug": "AMX0035（Relyvrio；sodium phenylbutyrate + taurursodiol）",
+      "category": "regulatory",
+      "phase": "曾获批上市；PHOENIX III 期确证试验",
+      "regulatoryStatus": "FDA 于 2022-09-29 批准；应申办方自愿请求，FDA 于 2025-08-29 撤销 NDA 216660 批准。当前不再是美国获批 ALS 药物。",
+      "findings": "664 人、48 周 PHOENIX 试验未达到预设主要终点（第 48 周 ALSFRS-R 变化，P=0.667），次要终点也未见显著差异；FDA 联邦公报将该研究结果作为撤回背景。",
+      "evidenceType": "FDA · 撤销批准",
+      "sourceDate": "2025-08-29",
+      "checkedAt": "2026-10-22",
+      "nctIds": [
+        "NCT05021536"
+      ],
+      "caveat": "撤回是申办方请求、FDA 正式撤销批准；不能把最初获批或早期 CENTAUR 结果当作 PHOENIX 确证成功。",
+      "sources": [
+        {
+          "title": "Amylyx Announces Topline Results From Phase 3 PHOENIX Trial",
+          "url": "https://www.amylyx.com/news/amylyx-pharmaceuticals-announces-topline-results-from-global-phase-3-phoenix-trial-of-amx0035-in-als"
+        },
+        {
+          "title": "Federal Register: Withdrawal of Approval of NDA for RELYVRIO",
+          "url": "https://www.federalregister.gov/documents/2025/08/29/2025-16646/amylyx-pharmaceuticals-inc-withdrawal-of-approval-of-new-drug-application-for-relyvrio-sodium"
+        },
+        {
+          "title": "ClinicalTrials.gov: PHOENIX, NCT05021536",
+          "url": "https://clinicaltrials.gov/study/NCT05021536"
+        }
+      ]
+    },
+    {
+      "id": "pipeline-pridopidine",
+      "drug": "Pridopidine",
+      "category": "pipeline",
+      "phase": "Phase 2/3 平台臂；该臂已完成",
+      "regulatoryStatus": "本条来源不构成 ALS 上市批准；当前为在研治疗。",
+      "findings": "HEALEY 24周随机对照结果的主要终点（ALSFRS-R与死亡综合疾病进展）总体未显示获益；安全性和耐受性尚可。研究者2025年报告称，运动言语等次要指标及预设的较早病程亚组出现潜在信号，支持进一步研究，但不是确证性疗效。",
+      "evidenceType": "研究者报告 · 随机试验",
+      "sourceDate": "2025-04-17",
+      "checkedAt": "2026-10-22",
+      "nctIds": [
+        "NCT04615923",
+        "NCT04297683"
+      ],
+      "caveat": "亚组样本量小；需把探索性/次要终点与未达标的总体主要终点分开。Phase 3当时仅在规划，不能视为已启动或已证实获益。",
+      "sources": [
+        {
+          "title": "HEALEY ALS Platform Trial - Regimen D Pridopidine (ClinicalTrials.gov)",
+          "url": "https://clinicaltrials.gov/study/NCT04615923"
+        },
+        {
+          "title": "Pridopidine in ALS: Results from the Healey Platform Trial (NIH Collaboratory Grand Rounds)",
+          "url": "https://rethinkingclinicaltrials.org/news/grand-rounds-april-11-2025-pridopidine-in-als-results-from-the-healey-platform-trial-jeremy-m-shefner-md-phd/"
+        }
+      ]
+    },
+    {
+      "id": "pipeline-ipl344",
+      "drug": "IPL344",
+      "category": "pipeline",
+      "phase": "Phase 1/2a开放标签研究及延长期；更大随机试验仅在筹备",
+      "regulatoryStatus": "本条来源不构成 ALS 上市批准；当前为在研治疗。",
+      "findings": "同行评审的早期研究包括9名患者（含1名同情用药），平均治疗约11个月。作者/公司报告与匹配PRO-ACT历史对照相比ALSFRS-R进展率慢约58%（校正后64%）、长期治疗者NfL下降约27%；但研究为单中心、开放标签，未设同期随机安慰剂对照。",
+      "evidenceType": "同行评审 · 开放标签研究",
+      "sourceDate": "2025-04-07",
+      "checkedAt": "2026-10-22",
+      "nctIds": [
+        "NCT03652805",
+        "NCT03755167"
+      ],
+      "caveat": "小样本、开放标签且以历史对照为主，选择偏差和自然病程差异可能显著影响估计；报告的减缓幅度不能视为随机试验证实。",
+      "sources": [
+        {
+          "title": "Akt Activation With IPL344 Treatment for ALS: First in Human, Open-Label Study (Muscle & Nerve, PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12060625/"
+        },
+        {
+          "title": "Immunity Pharma Presents New Data Supporting the Efficacy of IPL344 in ALS",
+          "url": "https://immunitypharma.com/news/75-immunity-pharma-presents-new-data-supporting-the-efficacy-of-ipl344-in-als"
+        }
+      ]
+    },
+    {
+      "id": "pipeline-cnm-au8",
+      "drug": "CNM-Au8",
+      "category": "pipeline",
+      "phase": "Phase 2/3 平台臂；已完成",
+      "regulatoryStatus": "本条来源不构成 ALS 上市批准；当前为在研治疗。",
+      "findings": "HEALEY随机研究纳入161人。24周主要终点疾病进展比值为0.97（95%贝叶斯可信区间0.783–1.175），主要及次要结局均未显示临床获益；同行评审结论为未观察到疾病进展改善。",
+      "evidenceType": "同行评审 · 随机试验",
+      "sourceDate": "2025-02-20",
+      "checkedAt": "2026-10-22",
+      "nctIds": [
+        "NCT04414345",
+        "NCT04297683"
+      ],
+      "caveat": "血清NfL出现名义差异，但其临床意义未确立，不能替代阴性的功能/生存主要终点。研究已完成；结果不支持宣称已证明疗效。",
+      "sources": [
+        {
+          "title": "CNM-Au8 in Amyotrophic Lateral Sclerosis: The HEALEY ALS Platform Trial (JAMA Neurology, PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11833661/"
+        },
+        {
+          "title": "HEALEY ALS Platform Trial - Regimen C CNM-Au8 (ClinicalTrials.gov)",
+          "url": "https://clinicaltrials.gov/study/NCT04414345"
+        }
+      ]
+    },
+    {
+      "id": "pipeline-fosigotifator-abbv-cls-7262",
+      "drug": "Fosigotifator (ABBV-CLS-7262)",
+      "category": "pipeline",
+      "phase": "Phase 2/3 平台臂；已完成",
+      "regulatoryStatus": "本条来源不构成 ALS 上市批准；当前为在研治疗。",
+      "findings": "2025年HEALEY公布的24周结果未达到主要疾病进展终点，主要剂量的ALSFRS-R、呼吸功能和生活质量关键次要终点亦未显著优于安慰剂。探索性高剂量组手持测力及慢肺活量有潜在信号；整体耐受性尚可。",
+      "evidenceType": "官方公告 · 平台试验",
+      "sourceDate": "2025-01-06",
+      "checkedAt": "2026-10-22",
+      "nctIds": [
+        "NCT05740813",
+        "NCT04297683"
+      ],
+      "caveat": "高剂量信号属探索性且未改变主要终点阴性结论；ClinicalTrials.gov结果于2025-11-14登记，试验状态为已完成。",
+      "sources": [
+        {
+          "title": "Calico Provides Update on Fosigotifator in HEALEY ALS Platform Trial",
+          "url": "https://www.calicolabs.com/press/calico-statement-on-fosigotifator-in-healey-als-platform-trial/"
+        },
+        {
+          "title": "HEALEY ALS Platform Trial - Regimen F ABBV-CLS-7262 (ClinicalTrials.gov)",
+          "url": "https://clinicaltrials.gov/study/NCT05740813"
+        }
+      ]
+    },
+    {
+      "id": "tofersen-fda",
+      "drug": "Tofersen（Qalsody）",
+      "category": "regulatory",
+      "phase": "已获加速批准；SOD1-ALS 的 III 期 VALOR 研究，预症状载体确证性 III 期 ATLAS 进行中",
+      "regulatoryStatus": "FDA 于 2023-04-25 加速批准，限定成人 SOD1 基因突变相关 ALS；截至 FDA 2026-08-25 清单，临床获益确证性要求仍在进行，ATLAS 预估主要完成日期 2027-08-07。",
+      "findings": "FDA 批准依据是血浆 NfL 降低（替代/生物标志物终点），不是已证实临床获益。VALOR 的快速进展亚组主要终点 ALSFRS-R 第 28 周组间差异 1.2 分，P=0.97，未达显著；开放延长期早启用组出现有利的描述性趋势。ATLAS 当前登记为 active, not recruiting，尚无结果公布。",
+      "evidenceType": "FDA · 加速批准",
+      "sourceDate": "2023-04-25",
+      "checkedAt": "2026-10-22",
+      "nctIds": [
+        "NCT02623699",
+        "NCT04856982"
+      ],
+      "caveat": "加速批准不等于传统批准或临床获益已被确证；VALOR 未达主要终点，开放延长期分析非随机对照且属描述性证据。",
+      "sources": [
+        {
+          "title": "FDA approves treatment of ALS associated with a mutation in the SOD1 gene",
+          "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-amyotrophic-lateral-sclerosis-associated-mutation-sod1-gene"
+        },
+        {
+          "title": "Trial of Antisense Oligonucleotide Tofersen for SOD1 ALS (NEJM, VALOR)",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2204705"
+        },
+        {
+          "title": "FDA Ongoing Accelerated Approvals: Qalsody",
+          "url": "https://www.fda.gov/drugs/accelerated-approval-program/ongoing-non-malignant-hematological-neurological-and-other-disorder-indications-accelerated"
+        },
+        {
+          "title": "ClinicalTrials.gov: ATLAS, NCT04856982",
+          "url": "https://clinicaltrials.gov/study/NCT04856982"
+        }
+      ]
+    },
+    {
+      "id": "edaravone-fda",
+      "drug": "Edaravone（Radicava；口服 Radicava ORS）",
+      "category": "regulatory",
+      "phase": "已上市；原静脉制剂 2017 年获批，口服混悬液 2022 年获批",
+      "regulatoryStatus": "美国批准用于成人 ALS。2022 年口服剂型批准依据是与静脉剂型血药浓度可比；活性成分相同，不是新的 ALS 药物机制/新适应症。",
+      "findings": "FDA 回顾原批准的 6 个月临床试验（137 人）：第 24 周时，edaravone 组 ALS 日常功能下降较安慰剂少；2022 口服剂型有效性由生物等效/暴露可比性桥接。",
+      "evidenceType": "FDA · 剂型批准",
+      "sourceDate": "2022-05-12",
+      "checkedAt": "2026-10-22",
+      "nctIds": [],
+      "caveat": "所引 FDA 公告未给出 2017 年原试验的 NCT 编号；此处只概述 FDA 公告中的效果，不外推至所有患者或长期生存获益。",
+      "sources": [
+        {
+          "title": "FDA Approves Oral Form for the treatment of adults with ALS",
+          "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-oral-form-treatment-adults-amyotrophic-lateral-sclerosis-als"
+        }
+      ]
+    },
+    {
+      "id": "riluzole-fda",
+      "drug": "Riluzole（Rilutek 等）",
+      "category": "regulatory",
+      "phase": "已上市；FDA 于 1995 年首次批准用于 ALS",
+      "regulatoryStatus": "美国批准治疗 ALS；FDA 审评文件证实 1995 年批准。",
+      "findings": "FDA 标签记载两项随机对照研究显示气管切开或死亡时间延长；中位生存差异约 90 天和 60 天。肌力与神经功能指标未显示获益。",
+      "evidenceType": "FDA · 药品审评与标签",
+      "sourceDate": null,
+      "checkedAt": "2026-10-22",
+      "nctIds": [],
+      "caveat": "生存差异来自旧试验和特定分析/受试人群；不应解读为治愈或功能恢复。",
+      "sources": [
+        {
+          "title": "FDA Clinical Review: TIGLUTIK (riluzole oral suspension), NDA 209080",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/209080Orig1s000MedR.pdf"
+        },
+        {
+          "title": "RILUTEK (riluzole) FDA Prescribing Information",
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/020599s019lbl.pdf"
+        }
+      ]
+    },
+    {
+      "id": "reldesemtiv-courage",
+      "drug": "Reldesemtiv（COURAGE-ALS）",
+      "category": "pipeline",
+      "phase": "研究性药物；III 期随机试验（已因无效性提前终止）",
+      "regulatoryStatus": "未获 FDA 批准；2025 年同行评审结果未支持疗效。",
+      "findings": "2025 年发表的 III 期 COURAGE-ALS（N=486）因第二次期中分析提示无效而终止。第 24 周 ALSFRS-R 组间差异为 −1.1 分（95% CI −2.17 至 −0.08，P=.04，方向有利安慰剂）；综合评估也未显示获益（win ratio 0.91，P=.11）。",
+      "evidenceType": "同行评审 · III 期结果",
+      "sourceDate": null,
+      "checkedAt": "2026-10-22",
+      "nctIds": [
+        "NCT04944784"
+      ],
+      "caveat": "因提前终止有缺失数据；应以论文的综合分析和结论为准，不将单一未调整的功能量表差值解读为药物伤害已确证。",
+      "sources": [
+        {
+          "title": "Reldesemtiv in Amyotrophic Lateral Sclerosis: Results From the COURAGE-ALS Randomized Clinical Trial",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11933997/"
+        }
+      ]
+    }
+  ]
+}
