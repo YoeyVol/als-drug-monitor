@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "retrievedAt": "2026-10-22T14:04:11.873624Z",
+  "retrievedAt": "2026-10-26T16:14:01.571471Z",
   "scope": "中文精选，非全球全部试验；包含重点研发项目及研究进展卡片关联的药物 / 生物干预登记。登记状态与研究结论分别呈现。",
   "trials": [
     {
@@ -904,6 +904,69 @@
       "hasResults": true,
       "sponsor": "Merit E. Cudkowicz, MD",
       "sourceUrl": "https://clinicaltrials.gov/study/NCT05842941",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT07883590",
+      "title": "A Study of LY3873862 in Participants With Sporadic or Familial Amyotrophic Lateral Sclerosis (ALS).",
+      "interventions": [
+        "LY3873862",
+        "CYP450 Drug Cocktail",
+        "Placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis",
+        "Cytochrome P-450 Enzyme System"
+      ],
+      "phase": [
+        "PHASE1"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePosted": "2026-10-20",
+      "hasResults": false,
+      "sponsor": "Eli Lilly and Company",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07883590",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT07855211",
+      "title": "A Study to Learn About the Safety of BIIB147 and Its Effects in Adults With Amyotrophic Lateral Sclerosis (ALS)",
+      "interventions": [
+        "BIIB147",
+        "Placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2026-10-26",
+      "hasResults": false,
+      "sponsor": "Biogen",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07855211",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT05151471",
+      "title": "Efficacy and Safety Extension Study of Oral Edaravone Administered in Subjects With ALS",
+      "interventions": [
+        "MT-1186",
+        "Placebo"
+      ],
+      "conditions": [
+        "ALS"
+      ],
+      "phase": [
+        "PHASE3"
+      ],
+      "status": "TERMINATED",
+      "lastUpdatePosted": "2026-10-21",
+      "hasResults": true,
+      "sponsor": "Shionogi",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05151471",
       "studyType": "INTERVENTIONAL"
     }
   ]

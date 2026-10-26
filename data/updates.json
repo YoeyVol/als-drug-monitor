@@ -1,8 +1,133 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-22",
+  "lastUpdated": "2026-10-26",
   "coverage": "首轮精选覆盖已上市与撤市药物、重要在研治疗和部分药物 / 生物干预试验，不是全球全部 ALS 研究清单。监管信息重点为美国 FDA；招募状态以 ClinicalTrials.gov 快照单独展示，研究结论以所列来源为准。",
   "items": [
+    {
+      "id": "biib147-horizon-registry-2026-10",
+      "drug": "BIIB147 · HORIZON",
+      "category": "pipeline",
+      "phase": "I/II期",
+      "regulatoryStatus": "在研试验登记；ClinicalTrials.gov 的招募状态不是疗效证据，也不等同于FDA批准。",
+      "findings": "ClinicalTrials.gov 的第2版记录于2026-10-19发布，将招募/研究状态改为“招募中”；第3版于10月26日发布，更新研究状态及联系人/地点信息，当前登记仍为招募中。该研究为鞘内BIIB147对照安慰剂的I/II期研究；注册库尚无结果。",
+      "evidenceType": "ClinicalTrials.gov · 招募状态 / 登记更新",
+      "sourceDate": "2026-10-26",
+      "checkedAt": "2026-10-26",
+      "nctIds": [
+        "NCT07855211"
+      ],
+      "caveat": "仅反映注册库状态；联系人与地点更新不保证实时名额，尚无临床结果，不能据此推断疗效。",
+      "sources": [
+        {
+          "title": "ClinicalTrials.gov：BIIB147 HORIZON / NCT07855211",
+          "url": "https://clinicaltrials.gov/study/NCT07855211"
+        },
+        {
+          "title": "ClinicalTrials.gov：NCT07855211版本历史",
+          "url": "https://clinicaltrials.gov/study/NCT07855211?tab=history"
+        }
+      ]
+    },
+    {
+      "id": "ap101-weight-analysis-neals-2026-10",
+      "drug": "AP-101 · AP101-02体重事后分析 / AP101-03计划",
+      "category": "pipeline",
+      "phase": "AP101-02 II期已完成；AP101-03确证性III期计划（未登记）",
+      "regulatoryStatus": "AP-101仍为在研治疗；公告中的孤儿药资格不等于上市批准。拟议III期尚未登记，公告未给出NCT编号。",
+      "findings": "AL-S Pharma 于2026-10-26报告已完成II期AP101-02（NCT05039099）的事后体重分析：散发型ALS组第24周调整后组间差2.25 kg；SOD1-ALS组随机治疗结束后21天差4.82 kg（p=0.0092）；散发型ALS且基线脑脊液错折叠SOD1最高三分位亚组差4.59 kg（p=0.0010）。公司同时概述拟议AP101-03：约300人、2:1随机、每3周静脉给药或安慰剂、双盲12个月，计划2027年启动；尚无该III期登记。公司称分析将于10月28日会议报告。",
+      "evidenceType": "申办方 · II期事后分析 / III期计划",
+      "sourceDate": "2026-10-26",
+      "checkedAt": "2026-10-26",
+      "nctIds": [
+        "NCT05039099"
+      ],
+      "caveat": "体重结果为申办方公布的事后分析，会议报告在本轮核查日之后，尚非同行评审发表；不能据此认定体重是已验证替代终点或证明临床疗效。试验主要终点是安全性/耐受性；AP101-03仍为计划，尚无NCT编号。",
+      "sources": [
+        {
+          "title": "AL-S Pharma：AP-101 Phase 2 Weight Data and Planned Phase 3（2026-10-26）",
+          "url": "https://al-spharma.com/news/al-s-pharma-reports-new-ap-101-phase-2-weight-data-and-outlines-phase-3-clinical-trial-in-als-at-2026-neals-annual-meeting/"
+        },
+        {
+          "title": "ClinicalTrials.gov：AP101-02 / NCT05039099",
+          "url": "https://clinicaltrials.gov/study/NCT05039099"
+        }
+      ]
+    },
+    {
+      "id": "edaravone-mt1186-a04-results-revision-2026-10",
+      "drug": "口服依达拉奉（MT-1186）· MT-1186-A04延续研究",
+      "category": "pipeline",
+      "phase": "IIIb期延续研究；已终止",
+      "regulatoryStatus": "依达拉奉已获批用于ALS；本次为既有试验登记结果记录修订，不代表新增批准或适应症变化。",
+      "findings": "ClinicalTrials.gov 于2026-10-21发布MT-1186-A04（NCT05151471）第19版，修订研究状态、结局指标、受试者流程、基线特征、结果模块及不良事件模块。该研究此前已于2025-03-27首次发布结果；本次是既有结果记录的更新，不是首次结果发布。当前状态仍为“已终止”，登记原因是母研究MT-1186-A02达到无效性分析标准。",
+      "evidenceType": "ClinicalTrials.gov · 既有结果记录修订",
+      "sourceDate": "2026-10-21",
+      "checkedAt": "2026-10-26",
+      "nctIds": [
+        "NCT05151471"
+      ],
+      "caveat": "本次登记修订不是新的首次结果发布；研究已终止。不能将资料修订解读为新的阳性临床结果或疗效确认。",
+      "sources": [
+        {
+          "title": "ClinicalTrials.gov：口服依达拉奉MT-1186-A04 / NCT05151471（结果）",
+          "url": "https://clinicaltrials.gov/study/NCT05151471?tab=results"
+        },
+        {
+          "title": "ClinicalTrials.gov：NCT05151471第18至19版比较",
+          "url": "https://clinicaltrials.gov/study/NCT05151471?tab=history&a=18&b=19"
+        }
+      ]
+    },
+    {
+      "id": "tofersen-atlas-endpoint-amendment-2026-10",
+      "drug": "Tofersen（Qalsody）· ATLAS预症状SOD1试验",
+      "category": "pipeline",
+      "phase": "III期",
+      "regulatoryStatus": "Tofersen已获FDA批准用于成人SOD1突变ALS；ATLAS研究中的预症状用药仍属研究用途，本次登记终点修订不改变批准范围。",
+      "findings": "ClinicalTrials.gov 的ATLAS（NCT04856982）第40版于2026-10-20发布，修订主要终点：从“24个月内出现临床显性ALS的比例”改为“至临床显性ALS出现的时间”（最长约5.6年）；原24个月比例指标移至次要终点。登记状态为“进行中，非招募中”，未发布结果。",
+      "evidenceType": "ClinicalTrials.gov · 主要终点修订",
+      "sourceDate": "2026-10-20",
+      "checkedAt": "2026-10-26",
+      "nctIds": [
+        "NCT04856982"
+      ],
+      "caveat": "这是试验方案/登记终点变化，不是试验结果或疗效进展；注册库没有结果发布，研究当前非招募中。",
+      "sources": [
+        {
+          "title": "ClinicalTrials.gov：ATLAS / NCT04856982",
+          "url": "https://clinicaltrials.gov/study/NCT04856982"
+        },
+        {
+          "title": "ClinicalTrials.gov：NCT04856982第39至40版比较",
+          "url": "https://clinicaltrials.gov/study/NCT04856982?tab=history&a=39&b=40"
+        }
+      ]
+    },
+    {
+      "id": "ly3873862-phase1-registration-2026-10",
+      "drug": "LY3873862 · 新I期登记",
+      "category": "pipeline",
+      "phase": "I期（登记标题说明I b期）",
+      "regulatoryStatus": "在研药物；新试验登记尚无结果，不代表安全性或疗效已获证实，也非上市批准。",
+      "findings": "ClinicalTrials.gov 于2026-10-20首次发布Eli Lilly的随机、安慰剂对照LY3873862剂量递增研究（NCT07883590），用于散发性或家族性ALS；口服给药，登记分期为I期（标题称I b期），目标入组32人。当前状态为“尚未招募”，登记未发布结果。",
+      "evidenceType": "ClinicalTrials.gov · 新试验登记",
+      "sourceDate": "2026-10-20",
+      "checkedAt": "2026-10-26",
+      "nctIds": [
+        "NCT07883590"
+      ],
+      "caveat": "这是一项新登记的早期安全性/药代动力学研究；“尚未招募”是注册库快照，未有结果，不能作为疗效证据。",
+      "sources": [
+        {
+          "title": "ClinicalTrials.gov：LY3873862 I期研究 / NCT07883590",
+          "url": "https://clinicaltrials.gov/study/NCT07883590"
+        },
+        {
+          "title": "ClinicalTrials.gov：NCT07883590版本历史",
+          "url": "https://clinicaltrials.gov/study/NCT07883590?tab=history"
+        }
+      ]
+    },
     {
       "id": "cnm-au8-nda-2026",
       "drug": "CNM-Au8",
