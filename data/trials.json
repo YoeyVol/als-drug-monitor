@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "retrievedAt": "2026-10-26T16:14:01.571471Z",
+  "retrievedAt": "2026-11-02T17:11:37.291375Z",
   "scope": "中文精选，非全球全部试验；包含重点研发项目及研究进展卡片关联的药物 / 生物干预登记。登记状态与研究结论分别呈现。",
   "trials": [
     {
@@ -349,7 +349,7 @@
         "PHASE3"
       ],
       "status": "RECRUITING",
-      "lastUpdatePosted": "2026-10-06",
+      "lastUpdatePosted": "2026-10-27",
       "hasResults": false,
       "sponsor": "Prilenia",
       "sourceUrl": "https://clinicaltrials.gov/study/NCT07322003",
@@ -612,8 +612,8 @@
       "phase": [
         "PHASE2"
       ],
-      "status": "NOT_YET_RECRUITING",
-      "lastUpdatePosted": "2026-10-21",
+      "status": "ENROLLING_BY_INVITATION",
+      "lastUpdatePosted": "2026-10-28",
       "hasResults": false,
       "sponsor": "Tiziana Life Sciences LTD",
       "sourceUrl": "https://clinicaltrials.gov/study/NCT07688239",
@@ -967,6 +967,65 @@
       "hasResults": true,
       "sponsor": "Shionogi",
       "sourceUrl": "https://clinicaltrials.gov/study/NCT05151471",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT07906665",
+      "title": "A Study of Single Ascending Doses of NI112 in Adults With Amyotrophic Lateral Sclerosis (ALS)",
+      "interventions": [
+        "NI112",
+        "Placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis (ALS)"
+      ],
+      "phase": [
+        "PHASE1"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePosted": "2026-10-30",
+      "hasResults": false,
+      "sponsor": "Sachi Bioworks Inc.",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07906665",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT04055623",
+      "title": "T-regulatory Cells in ALS",
+      "interventions": [
+        "Monthly autologous Treg cells infusions + 3 times per week Interleukin-2 injections"
+      ],
+      "conditions": [
+        "ALS (Amyotrophic Lateral Sclerosis)"
+      ],
+      "phase": [
+        "PHASE2"
+      ],
+      "status": "COMPLETED",
+      "lastUpdatePosted": "2026-10-28",
+      "hasResults": true,
+      "sponsor": "The Methodist Hospital Research Institute",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT04055623",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT05279755",
+      "title": "A Study to Evaluate the Safety and Pharmacokinetics of Single and Multiple Doses of Prosetin in Healthy Volunteers and Participants With ALS",
+      "interventions": [
+        "prosetin",
+        "placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE1"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePosted": "2026-04-27",
+      "hasResults": false,
+      "sponsor": "ProJenX",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT05279755",
       "studyType": "INTERVENTIONAL"
     }
   ]

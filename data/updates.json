@@ -1,8 +1,203 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-26",
+  "lastUpdated": "2026-11-02",
   "coverage": "首轮精选覆盖已上市与撤市药物、重要在研治疗和部分药物 / 生物干预试验，不是全球全部 ALS 研究清单。监管信息重点为美国 FDA；招募状态以 ClinicalTrials.gov 快照单独展示，研究结论以所列来源为准。",
   "items": [
+    {
+      "id": "ni112-phase1-registration-2026-10",
+      "drug": "NI112（antisense nanoligomer）",
+      "category": "pipeline",
+      "phase": "I期·首人体剂量递增研究",
+      "regulatoryStatus": "ClinicalTrials.gov 于 2026-10-30 首次发布登记；状态为“尚未招募”。这是试验登记，不代表已开始给药或获批。",
+      "findings": "Sachi Bioworks 登记了 NI112 首人体研究（NCT07906665）：计划最多纳入 40 名 ALS 成人，进行皮下注射单次递增剂量与安慰剂比较；记录预计 2027 年 1 月开始，尚无结果。",
+      "evidenceType": "ClinicalTrials.gov · 新 I 期试验登记",
+      "sourceDate": "2026-10-30",
+      "checkedAt": "2026-11-02",
+      "nctIds": [
+        "NCT07906665"
+      ],
+      "caveat": "状态、剂量和预计日期均为注册信息；尚未招募、尚无结果，不构成疗效证据或监管批准。",
+      "sources": [
+        {
+          "title": "ClinicalTrials.gov：NI112 单次递增剂量 I 期 / NCT07906665",
+          "url": "https://clinicaltrials.gov/study/NCT07906665"
+        },
+        {
+          "title": "ClinicalTrials.gov：NCT07906665 登记历史",
+          "url": "https://clinicaltrials.gov/study/NCT07906665?tab=history"
+        }
+      ]
+    },
+    {
+      "id": "alt001-phase1-results-neals-2026-10",
+      "drug": "ALT001（间充质干细胞来源无细胞蛋白复合物）",
+      "category": "pipeline",
+      "phase": "中国随机 I 期已完成；美国 I/IIa 期计划中",
+      "regulatoryStatus": "申办方报告已完成的中国 I 期结果，并计划在美国开展 I/IIa 期；未提供该 I 期的 NCT 编号。试验计划不等于已启动或获批。",
+      "findings": "Darwin 于 2026-10-30 发布 NEALS 展示摘要：一项 36 人、随机双盲安慰剂对照、31 天的中国 I 期研究中，申办方报告未见治疗相关严重不良事件或剂量限制毒性，并称第 31 天的次要 ALSFRS-R 与血浆 NfL 变化方向有利于 ALT001。公司计划进一步开展美国 I/IIa 期。",
+      "evidenceType": "申办方 · 随机 I 期结果 / 后续试验计划",
+      "sourceDate": "2026-10-30",
+      "checkedAt": "2026-11-02",
+      "nctIds": [],
+      "caveat": "这是申办方报告的初步结果；样本量小、治疗仅 31 天，功能和 NfL 为次要指标，开放标签延长期为非随机探索性观察。新闻稿未给中国 I 期 NCT 编号；NCT07833618 是另一项中国 II 期研究，不能与此 I 期结果混为一谈。",
+      "sources": [
+        {
+          "title": "Darwin Biotech：ALT001 随机 I 期及开放标签延长期数据（NEALS 2026）",
+          "url": "https://www.businesswire.com/news/home/20261030706564/en/Darwin-Biotech-Presented-Randomized-Phase-1-ALS-Study-Data-of-Cell-Free-ALT001-and-U.S.-Phase-12-Study-Design-at-2026-NEALS-Annual-Meeting"
+        },
+        {
+          "title": "ClinicalTrials.gov：另一项 ALT001 中国 II 期登记 NCT07833618（非该 I 期）",
+          "url": "https://clinicaltrials.gov/study/NCT07833618"
+        }
+      ]
+    },
+    {
+      "id": "treg-als-results-record-2026-10",
+      "drug": "自体 Treg 细胞输注 + IL-2（Tregs in ALS）",
+      "category": "pipeline",
+      "phase": "II 期；ClinicalTrials.gov 状态为已完成",
+      "regulatoryStatus": "ClinicalTrials.gov 于 2026-10-28 发布新的结果记录版本；页面说明结果质量控制审核尚未完成。登记结果不是上市批准。",
+      "findings": "ClinicalTrials.gov 更新 NCT04055623 的结果记录（自体调节性 T 细胞输注并联合 IL-2）。本次仅报告结果记录已更新且公开；不在此解读其临床疗效或安全性结论。",
+      "evidenceType": "ClinicalTrials.gov · 结果记录更新（QC 待完成）",
+      "sourceDate": "2026-10-28",
+      "checkedAt": "2026-11-02",
+      "nctIds": [
+        "NCT04055623"
+      ],
+      "caveat": "结果由研究责任方提交；ClinicalTrials.gov 页面标记质量控制审核尚未结束。它不是同行评审论文，也不应据此推断临床获益。",
+      "sources": [
+        {
+          "title": "ClinicalTrials.gov：NCT04055623 结果页（QC 尚未完成）",
+          "url": "https://clinicaltrials.gov/study/NCT04055623?tab=results"
+        },
+        {
+          "title": "ClinicalTrials.gov：NCT04055623 登记与结果版本历史",
+          "url": "https://clinicaltrials.gov/study/NCT04055623?tab=history"
+        }
+      ]
+    },
+    {
+      "id": "pridopidine-neals-enrollment-2026-10",
+      "drug": "Pridopidine · HEALEY Regimen D / PREVAiLS",
+      "category": "pipeline",
+      "phase": "II/III 期 HEALEY Regimen D 事后分析；III 期 PREVAiLS 招募中",
+      "regulatoryStatus": "Pridopidine 仍为研究性药物。申办方称 PREVAiLS 约 60% 入组；这既不是试验结果，也不是监管批准。",
+      "findings": "Prilenia/Ferrer 于 2026-10-28 报告一项 HEALEY Regimen D（NCT04615923）36 名早期 ALS 参与者的事后亚组分析；公司称与倾向评分加权的 PRO-ACT 外部对照相比，48 周功能、呼吸及中位生存指标呈有利方向。两家公司同时称 PREVAiLS（NCT07322003，计划约 500 人）约 60% 入组。",
+      "evidenceType": "申办方 · II 期事后分析 / III 期招募进度",
+      "sourceDate": "2026-10-28",
+      "checkedAt": "2026-11-02",
+      "nctIds": [
+        "NCT04615923",
+        "NCT07322003"
+      ],
+      "caveat": "事后亚组分析使用外部历史对照，并非新的随机比较；HEALEY Regimen D 的总体研究未达到主要终点。60% 入组为公司报告，ClinicalTrials.gov 仍显示 PREVAiLS 招募中且未发布结果。",
+      "sources": [
+        {
+          "title": "Prilenia/Ferrer：NEALS 2026 pridopidine 数据与 PREVAiLS 入组更新",
+          "url": "https://news.prilenia.com/press-releases/press-release-details/2026/Prilenia-and-Ferrer-to-Share-New-Pridopidine-Data-and-PREVAiLS-Study-Updates-at-the-NEALS-Consortium-2026-Annual-Meeting/default.aspx"
+        },
+        {
+          "title": "ClinicalTrials.gov：HEALEY Regimen D pridopidine / NCT04615923",
+          "url": "https://clinicaltrials.gov/study/NCT04615923"
+        },
+        {
+          "title": "ClinicalTrials.gov：PREVAiLS III 期 / NCT07322003",
+          "url": "https://clinicaltrials.gov/study/NCT07322003"
+        }
+      ]
+    },
+    {
+      "id": "foralumab-banyan-status-2026-10",
+      "drug": "鼻用 foralumab · BANYAN",
+      "category": "pipeline",
+      "phase": "IIa 期（登记）",
+      "regulatoryStatus": "ClinicalTrials.gov 的登记招募状态已更新为“邀请入组”；这不是公开广泛招募，也不是疗效结果或批准。",
+      "findings": "BANYAN（NCT07688239）第 3 版于 2026-10-28 发布：登记状态从“尚未招募”改为“邀请入组”，并将研究开始日由估计日期修订为实际 2026-09-23。记录仍无结果。",
+      "evidenceType": "ClinicalTrials.gov · 招募状态 / 登记更新",
+      "sourceDate": "2026-10-28",
+      "checkedAt": "2026-11-02",
+      "nctIds": [
+        "NCT07688239"
+      ],
+      "caveat": "“邀请入组”仅描述注册的招募状态；研究结果尚未公布。ClinicalTrials.gov 明确说明登记不代表政府审查或批准研究疗效与安全性。",
+      "sources": [
+        {
+          "title": "ClinicalTrials.gov：BANYAN / NCT07688239 当前登记",
+          "url": "https://clinicaltrials.gov/study/NCT07688239"
+        },
+        {
+          "title": "ClinicalTrials.gov：BANYAN 第 2 至第 3 版比较",
+          "url": "https://clinicaltrials.gov/study/NCT07688239?tab=history&a=2&b=3"
+        }
+      ]
+    },
+    {
+      "id": "ck1delta-inhibitor-preclinical-2026-10",
+      "drug": "利鲁唑衍生苯并噻唑类 CK1δ 抑制剂",
+      "category": "pipeline",
+      "phase": "临床前药物化学 / 细胞研究；无 NCT",
+      "regulatoryStatus": "尚处早期实验室研究；未进入 ALS 临床试验，也无监管批准。",
+      "findings": "2026-10-28 发表的同行评审研究报告了以利鲁唑代谢物为起点设计的苯并噻唑 CK1δ 抑制剂系列。研究称，改用肼基团后得到更稳定、效力更强的化合物；最佳衍生物显示亚微摩尔级 CK1δ 抑制、体外靶标接合及被动血脑屏障通透性，但在所用氧化应激模型中未显示神经保护。",
+      "evidenceType": "同行评审 · 临床前药物化学",
+      "sourceDate": "2026-10-28",
+      "checkedAt": "2026-11-02",
+      "nctIds": [],
+      "caveat": "这是早期药物化学/细胞研究，不是已确定的临床候选药，也没有人体安全性或疗效数据；所述模型中未见神经保护。",
+      "sources": [
+        {
+          "title": "PubMed：Riluzole-Derived Benzo[d]thiazoles as CK1δ Inhibitors for ALS-Related Neurodegeneration",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42922081/"
+        },
+        {
+          "title": "DOI：ChemMedChem 2026 研究论文",
+          "url": "https://doi.org/10.1002/cmdc.70539"
+        }
+      ]
+    },
+    {
+      "id": "prosetin-pro101-neals-2026-10",
+      "drug": "Prosetin（PRO-101；MAP4K 抑制剂）",
+      "category": "pipeline",
+      "phase": "I 期（ALS Part C/D；登记状态为进行中、非招募中）",
+      "regulatoryStatus": "仍为研究性药物，尚未获 FDA 批准。ClinicalTrials.gov 的整体登记状态为 Active, not recruiting；记录注明 ALS Part C/D 正在进行。",
+      "findings": "ProJenX 于 2026-10-27 报告 PRO-101 长期给药达到目标暴露、靶标接合随暴露变化且总体安全性/耐受性良好；另称新的体外研究显示 Prosetin 可纠正人干细胞来源运动神经元中的 TDP-43 相关错误剪接。",
+      "evidenceType": "申办方 · I 期药代/药效与临床前研究动态",
+      "sourceDate": "2026-10-27",
+      "checkedAt": "2026-11-02",
+      "nctIds": [
+        "NCT05279755"
+      ],
+      "caveat": "以上为公司对 NEALS 报告内容的描述；新闻稿未给出定量临床疗效结果，体外剪接研究不是患者结局。当前登记状态不等同于招募中或临床获益。",
+      "sources": [
+        {
+          "title": "ProJenX：Prosetin 开发计划 NEALS 更新",
+          "url": "https://projenx.com/projenx-to-present-data-update-for-the-prosetin-development-program-at-the-2026-neals-annual-meeting/"
+        },
+        {
+          "title": "ClinicalTrials.gov：PRO-101 / NCT05279755",
+          "url": "https://clinicaltrials.gov/study/NCT05279755"
+        }
+      ]
+    },
+    {
+      "id": "as241-hoffman-award-2026-10",
+      "drug": "AS-241（UNC13A 反义寡核苷酸）",
+      "category": "pipeline",
+      "phase": "临床前；首人体 I 期计划中",
+      "regulatoryStatus": "ALS Association 的资助用于支持拟议 I 期试验的生物标志物工作；未宣布试验启动，也未提供 NCT 编号或 FDA 批准。",
+      "findings": "AcuraStem 于 2026-10-27 宣布获得 ALS Association Hoffman ALS Clinical Trial Award：两年 100 万美元，将支持 AS-241 首人体 I 期的生物标志物开发，涵盖药物暴露、安全性/耐受性及治疗反应测量。",
+      "evidenceType": "申办方 / ALS Association · I 期准备资助",
+      "sourceDate": "2026-10-27",
+      "checkedAt": "2026-11-02",
+      "nctIds": [],
+      "caveat": "这是一项临床试验准备与生物标志物资助，不代表已开始人体研究。公司所述药效和安全性依据来自临床前研究；尚无 NCT 编号。",
+      "sources": [
+        {
+          "title": "AcuraStem：AS-241 Hoffman ALS Clinical Trial Award 公告",
+          "url": "https://acurastem.com/blog/acurastem-receives-hoffman-als-clinical-trial-award-support-phase-1-trial-241-clinical-candidate-its-unc13a-program"
+        }
+      ]
+    },
     {
       "id": "biib147-horizon-registry-2026-10",
       "drug": "BIIB147 · HORIZON",
