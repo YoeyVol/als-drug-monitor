@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "retrievedAt": "2026-11-02T17:11:37.291375Z",
+  "retrievedAt": "2026-11-09T17:24:58.441180Z",
   "scope": "中文精选，非全球全部试验；包含重点研发项目及研究进展卡片关联的药物 / 生物干预登记。登记状态与研究结论分别呈现。",
   "trials": [
     {
@@ -390,7 +390,7 @@
         "PHASE1"
       ],
       "status": "RECRUITING",
-      "lastUpdatePosted": "2026-03-06",
+      "lastUpdatePosted": "2026-11-05",
       "hasResults": false,
       "sponsor": "Eli Lilly and Company",
       "sourceUrl": "https://clinicaltrials.gov/study/NCT07100119",
@@ -796,7 +796,7 @@
         "PHASE3"
       ],
       "status": "ACTIVE_NOT_RECRUITING",
-      "lastUpdatePosted": "2026-10-20",
+      "lastUpdatePosted": "2026-11-04",
       "hasResults": false,
       "sponsor": "Biogen",
       "sourceUrl": "https://clinicaltrials.gov/study/NCT04856982",
@@ -1026,6 +1026,45 @@
       "hasResults": false,
       "sponsor": "ProJenX",
       "sourceUrl": "https://clinicaltrials.gov/study/NCT05279755",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT06365216",
+      "title": "ALS Phase II Study of NX210c",
+      "interventions": [
+        "NX210c",
+        "Placebo"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis"
+      ],
+      "phase": [
+        "PHASE2"
+      ],
+      "status": "COMPLETED",
+      "lastUpdatePosted": "2026-11-06",
+      "hasResults": false,
+      "sponsor": "Axoltis Pharma",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT06365216",
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nctId": "NCT07875972",
+      "title": "Safety, Tolerability, and Pharmacodynamic Exploration of Orelabrutinib in Patients With Amyotrophic Lateral Sclerosis (ALS)",
+      "interventions": [
+        "Orelabrutinib"
+      ],
+      "conditions": [
+        "Amyotrophic Lateral Sclerosis (ALS)"
+      ],
+      "phase": [
+        "PHASE1"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePosted": "2026-11-06",
+      "hasResults": false,
+      "sponsor": "Liu Qing",
+      "sourceUrl": "https://clinicaltrials.gov/study/NCT07875972",
       "studyType": "INTERVENTIONAL"
     }
   ]

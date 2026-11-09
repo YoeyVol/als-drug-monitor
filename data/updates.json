@@ -1,8 +1,300 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-11-02",
+  "lastUpdated": "2026-11-09",
   "coverage": "首轮精选覆盖已上市与撤市药物、重要在研治疗和部分药物 / 生物干预试验，不是全球全部 ALS 研究清单。监管信息重点为美国 FDA；招募状态以 ClinicalTrials.gov 快照单独展示，研究结论以所列来源为准。",
   "items": [
+    {
+      "id": "mbsjp-randomized-study-2026-11",
+      "drug": "改良补肾健脾汤（mBSJP，草药复方）",
+      "category": "pipeline",
+      "phase": "未说明分期；16 周人体随机研究，无可核实 NCT 编号",
+      "regulatoryStatus": "新发表的同行评审研究报告人体研究结果；未发现对应 NCT 登记或 FDA 批准信息。",
+      "findings": "2026-11-09 收录的多中心研究摘要报告 165 人随机、144 人完成，称 16 周时 mBSJP 组在 ALS-SSIT 与 ALSFRS-R 上有统计学差异；摘要未提供效应量或 p 值。研究目的描述比较既往 BSJP，而方法部分称安慰剂对照，摘要内部对照组描述不一致。",
+      "evidenceType": "同行评审 · 人体干预研究摘要（全文未能取得）",
+      "sourceDate": "2026-11-09",
+      "checkedAt": "2026-11-09",
+      "nctIds": [],
+      "caveat": "全文未能访问；摘要未提供差异幅度、p 值和足够安全性细节，且比较组描述有不一致，无法独立评估结果。无可核实 NCT 编号；不应仅凭摘要推断临床获益。",
+      "sources": [
+        {
+          "title": "PubMed：mBSJP 多中心研究",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43001357/"
+        },
+        {
+          "title": "期刊 DOI：Clinical Pharmacology",
+          "url": "https://doi.org/10.5414/CP205054"
+        }
+      ]
+    },
+    {
+      "id": "orelabrutinib-design-update-2026-11",
+      "drug": "Orelabrutinib（口服 BTK 抑制剂）",
+      "category": "pipeline",
+      "phase": "I 期；登记状态为尚未招募",
+      "regulatoryStatus": "ClinicalTrials.gov 第 2 版修订了试验方案；仍未招募、未发布结果，不构成疗效证据或批准。",
+      "findings": "NCT07875972 第 2 版于 2026-11-06 发布：登记估计入组数从 12 人改为 18 人，并扩充主要安全性终点（含治疗相关不良事件、严重不良事件、剂量限制毒性、提前停药及显著安全性异常）和次要药代、脑脊液、BTK 靶标接合、生物标志物及探索性功能/呼吸指标。登记仍为“尚未招募”，无结果。",
+      "evidenceType": "ClinicalTrials.gov · I 期方案 / 终点实质性修订",
+      "sourceDate": "2026-11-06",
+      "checkedAt": "2026-11-09",
+      "nctIds": [
+        "NCT07875972"
+      ],
+      "caveat": "第 1 版已登记开放标签、非随机剂量递增及 12 周导入/24 周治疗；本条仅将第 2 版实际修订列为新变化。该早期研究仍尚未招募、无结果；方案修订不是疗效证据或监管批准。",
+      "sources": [
+        {
+          "title": "ClinicalTrials.gov：Orelabrutinib ALS I 期 / NCT07875972",
+          "url": "https://clinicaltrials.gov/study/NCT07875972"
+        },
+        {
+          "title": "ClinicalTrials.gov：NCT07875972 登记历史",
+          "url": "https://clinicaltrials.gov/study/NCT07875972?tab=history"
+        },
+        {
+          "title": "ClinicalTrials.gov：第 1 至第 2 版比较",
+          "url": "https://clinicaltrials.gov/study/NCT07875972?tab=history&a=1&b=2"
+        }
+      ]
+    },
+    {
+      "id": "nx210c-seals-completed-2026-11",
+      "drug": "NX210c（SEALS）",
+      "category": "pipeline",
+      "phase": "II 期；ClinicalTrials.gov 登记为已完成",
+      "regulatoryStatus": "注册状态与完成日期已更新；结果尚未提交。完成试验不代表显示疗效或获得批准。",
+      "findings": "NCT06365216 第 8 版于 2026-11-06 发布：状态从“进行中，非招募中”改为“已完成”；主要完成日（2025-12-29）及研究完成日（2026-09-08）改为实际日期，入组数从估计 80 人改为实际 83 人。登记结果模块未提交结果。",
+      "evidenceType": "ClinicalTrials.gov · II 期登记状态 / 完成信息更新",
+      "sourceDate": "2026-11-06",
+      "checkedAt": "2026-11-09",
+      "nctIds": [
+        "NCT06365216"
+      ],
+      "caveat": "ClinicalTrials.gov 主记录页首次读取仍显示旧的 2025-12-24 版本；第 7 至第 8 版历史与当前 API 均确认 2026-11-06 发布、状态已完成、实际入组 83 人。结果页仍标示无结果；完成试验不代表疗效。",
+      "sources": [
+        {
+          "title": "ClinicalTrials.gov：NX210c SEALS / NCT06365216",
+          "url": "https://clinicaltrials.gov/study/NCT06365216"
+        },
+        {
+          "title": "ClinicalTrials.gov：NCT06365216 历史版本",
+          "url": "https://clinicaltrials.gov/study/NCT06365216?tab=history"
+        },
+        {
+          "title": "ClinicalTrials.gov：第 7 至第 8 版比较",
+          "url": "https://clinicaltrials.gov/study/NCT06365216?tab=history&a=7&b=8"
+        },
+        {
+          "title": "ClinicalTrials.gov：NCT06365216 结果页",
+          "url": "https://clinicaltrials.gov/study/NCT06365216?tab=results"
+        },
+        {
+          "title": "ClinicalTrials.gov API：NCT06365216 当前版本",
+          "url": "https://clinicaltrials.gov/api/v2/studies/NCT06365216?format=json"
+        }
+      ]
+    },
+    {
+      "id": "alsum30-new-registration-2026-11",
+      "drug": "Alsum30（西兰花籽提取物 + 益生菌；膳食补充剂研究）",
+      "category": "pipeline",
+      "phase": "未指定分期；约 15 人开放标签探索研究",
+      "regulatoryStatus": "ClinicalTrials.gov 于 2026-11-06 首次发布登记；状态为尚未招募。登记将干预分类为膳食补充剂，不是药物批准或疗效证据。",
+      "findings": "新登记 NCT07922031 计划研究约 15 名 ALS 参与者、约 24 周的 Alsum30 添加方案，含治疗前观察与安全性随访；尚无结果。登记标题称“随机”，但设计模块列为单组分配、未设对照组，摘要亦称所有参与者接受 Alsum30。",
+      "evidenceType": "ClinicalTrials.gov · 新干预研究登记（膳食补充剂 / 益生菌）",
+      "sourceDate": "2026-11-06",
+      "checkedAt": "2026-11-09",
+      "nctIds": [
+        "NCT07922031"
+      ],
+      "caveat": "该记录是膳食补充剂加益生菌研究，并非药物研发试验；标题中的“随机”与设计模块的单组、无对照信息不一致。因分类及设计边界，本条单独列为新登记观察，不纳入网站固定药物/生物制品登记快照。",
+      "sources": [
+        {
+          "title": "ClinicalTrials.gov：Alsum30 ALS 添加研究 / NCT07922031",
+          "url": "https://clinicaltrials.gov/study/NCT07922031"
+        },
+        {
+          "title": "ClinicalTrials.gov：NCT07922031 登记历史",
+          "url": "https://clinicaltrials.gov/study/NCT07922031?tab=history"
+        },
+        {
+          "title": "ClinicalTrials.gov API：NCT07922031",
+          "url": "https://clinicaltrials.gov/api/v2/studies/NCT07922031"
+        }
+      ]
+    },
+    {
+      "id": "tazbentetol-expanded-access-update-2026-11",
+      "drug": "Tazbentetol（SPG302）· ALS 扩大用药计划",
+      "category": "pipeline",
+      "phase": "扩大用药（非临床试验分期）；既往 I/IIa 期已完成",
+      "regulatoryStatus": "Spinogenix 于 2026-11-05 称 FDA 已授权扩大 ALS 扩大用药计划至 400 人；ClinicalTrials.gov 的 NCT07088159 页面仍显示可用但未反映 400 人扩容。扩大用药不是上市批准。",
+      "findings": "申办方称其 ALS 扩大用药计划的授权容量从先前公布的 200 人扩至 400 人；公告未说明授权具体日期、实际已治疗人数，也未披露新临床结果。相关扩大用药登记为 NCT07088159；既往 SPG302 I/IIa 研究为 NCT05882695。",
+      "evidenceType": "申办方 · 扩大用药计划容量更新",
+      "sourceDate": "2026-11-05",
+      "checkedAt": "2026-11-09",
+      "nctIds": [
+        "NCT07088159",
+        "NCT05882695"
+      ],
+      "caveat": "FDA 授权信息来自申办方公告；注册页日期早于该公告，未显示 400 人变化。扩大用药不是对照临床疗效试验；不能据此推断获益或上市批准。",
+      "sources": [
+        {
+          "title": "Spinogenix：SPG302 ALS 扩大用药计划扩至 400 人的公告",
+          "url": "https://spinogenix.com/press-release/spinogenix-announces-fda-authorized-expanded-access-programfor-spg302-the-first-synaptic-regenerative-therapy-to-treat-als/"
+        },
+        {
+          "title": "ClinicalTrials.gov：SPG302 扩大用药 / NCT07088159",
+          "url": "https://clinicaltrials.gov/study/NCT07088159"
+        },
+        {
+          "title": "ClinicalTrials.gov：既往 SPG302 I/IIa / NCT05882695",
+          "url": "https://clinicaltrials.gov/study/NCT05882695"
+        }
+      ]
+    },
+    {
+      "id": "ly4256984-registry-update-2026-11",
+      "drug": "LY4256984（散发性 ALS）",
+      "category": "pipeline",
+      "phase": "I 期；ClinicalTrials.gov 登记为招募中",
+      "regulatoryStatus": "ClinicalTrials.gov 当前记录仍为招募中、未显示结果；本轮方案与估计入组数变化不代表临床结局或批准。",
+      "findings": "NCT07100119 第 9 版于 2026-11-05 发布：估计入组数从 32 改为 36，鞘内给药队列标签从 1–4 改为 1–3；登记仍为招募中，方案历史未显示本轮结局指标结果更新。",
+      "evidenceType": "ClinicalTrials.gov · I 期队列 / 入组估计修订",
+      "sourceDate": "2026-11-05",
+      "checkedAt": "2026-11-09",
+      "nctIds": [
+        "NCT07100119"
+      ],
+      "caveat": "官方记录历史显示第 9 版于 11 月 5 日发布并有上述变更；ClinicalTrials.gov API 在本轮仍返回旧的第 8 版内容，因此精选快照的 lastUpdatePosted 依据官方网页与版本历史手动对齐。状态仍为招募中，无结果。",
+      "sources": [
+        {
+          "title": "ClinicalTrials.gov：LY4256984 / NCT07100119 当前记录",
+          "url": "https://clinicaltrials.gov/study/NCT07100119"
+        },
+        {
+          "title": "ClinicalTrials.gov：NCT07100119 登记历史",
+          "url": "https://clinicaltrials.gov/study/NCT07100119?tab=history"
+        },
+        {
+          "title": "ClinicalTrials.gov：第 8 至第 9 版比较",
+          "url": "https://clinicaltrials.gov/study/NCT07100119?tab=history&a=8&b=9"
+        }
+      ]
+    },
+    {
+      "id": "amx0114-cohort4-2026-11",
+      "drug": "AMX0114（靶向 calpain-2 的反义寡核苷酸）",
+      "category": "pipeline",
+      "phase": "I 期 LUMINA 多剂量递增研究",
+      "regulatoryStatus": "申办方报告第三剂量队列完成、第四队列开始入组；ClinicalTrials.gov 页面仍为招募中且尚无结果。",
+      "findings": "Amylyx 于 2026-11-05 报告 LUMINA（NCT06665165）第三队列 12 人已完成入组，并已开始第四队列入组。公告未给出新的人体疗效结果；提到的 NEALS 前两队列海报属于 10 月会议内容，不作为本轮新增临床结果。",
+      "evidenceType": "申办方 · I 期队列入组进度",
+      "sourceDate": "2026-11-05",
+      "checkedAt": "2026-11-09",
+      "nctIds": [
+        "NCT06665165"
+      ],
+      "caveat": "队列进展来自申办方；ClinicalTrials.gov 记录最后更新于 2026-04-14，尚未反映此进展，也无结果模块。队列入组不证明安全性或疗效。",
+      "sources": [
+        {
+          "title": "Amylyx：2026 年第三季度财务与研发更新",
+          "url": "https://www.amylyx.com/news/amylyx-pharmaceuticals-reports-third-quarter-2026-financial-results"
+        },
+        {
+          "title": "ClinicalTrials.gov：LUMINA / NCT06665165",
+          "url": "https://clinicaltrials.gov/study/NCT06665165"
+        }
+      ]
+    },
+    {
+      "id": "cnm-au8-restore-timing-2026-11",
+      "drug": "CNM-Au8（口服金纳米晶悬液）",
+      "category": "pipeline",
+      "phase": "RESTORE-ALS 确证性 III 期计划中；尚未登记或启动",
+      "regulatoryStatus": "申办方称 NDA 已于 2026 年 10 月提交；截至本轮未见 FDA 决定。拟议 III 期时间表不是 FDA 批准或试验启动。",
+      "findings": "Clene 于 2026-11-04 报告计划于 2027 年第二季度在 RESTORE-ALS 随机 III 期启动首位参与者随机化；计划主要终点为生存，次要疗效终点为至 ALS 临床恶化事件的时间。公司未提供该 III 期 NCT 编号。",
+      "evidenceType": "申办方 · III 期时间与终点计划",
+      "sourceDate": "2026-11-04",
+      "checkedAt": "2026-11-09",
+      "nctIds": [],
+      "caveat": "这是公司前瞻性计划；NDA 提交本身已在前一轮基线记录，本轮仅新增拟议 III 期时间与终点。试验未报告已启动，NDA 未等同于 FDA 受理或批准。",
+      "sources": [
+        {
+          "title": "Clene：2026 年第三季度及近期业务进展",
+          "url": "https://invest.clene.com/news-releases/news-release-details/clene-reports-third-quarter-2026-financial-results-and-recent"
+        }
+      ]
+    },
+    {
+      "id": "specific-biologics-c9orf72-funding-2026-11",
+      "drug": "Dualase（C9ORF72 ALS 基因编辑候选物；公司未公布产品代号）",
+      "category": "pipeline",
+      "phase": "临床前；公司计划自适应 I/II 期，尚未启动或登记",
+      "regulatoryStatus": "融资和试验计划为申办方公告；未找到 NCT 登记或人体给药报告。",
+      "findings": "Specific Biologics 于 2026-11-02 宣布完成超额认购的 3,500 万美元 A 轮融资，称将推动 Dualase 从患者来源细胞及动物模型研究，进入拟议自适应 I/II 期首队列的临床生物标志物概念验证。",
+      "evidenceType": "申办方 · 融资及临床开发计划",
+      "sourceDate": "2026-11-02",
+      "checkedAt": "2026-11-09",
+      "nctIds": [],
+      "caveat": "这是临床前与未来计划，不是临床试验已启动或疗效证据；公告未提供 NCT 编号、临床启动日期或人体数据。",
+      "sources": [
+        {
+          "title": "Specific Biologics：3,500 万美元 A 轮融资公告",
+          "url": "https://www.prnewswire.com/news-releases/specific-biologics-announces-oversubscribed-us-35-million-series-a-financing-to-advance-gene-editing-therapy-for-als-812519649.html"
+        }
+      ]
+    },
+    {
+      "id": "primec-nfl-canada-update-2026-11",
+      "drug": "PrimeC（ciprofloxacin / celecoxib 缓释复方）",
+      "category": "pipeline",
+      "phase": "IIb 期 PARADIGM 已完成；加拿大 NDS 计划 2027 年 3 月提交；III 期仍在筹备",
+      "regulatoryStatus": "申办方称计划将补充分析纳入未来加拿大 NDS；截至公告日尚未提交，亦无上市批准。",
+      "findings": "NeuroSense 于 2026-11-02 报告 PARADIGM 新的 NfL 分析：公司称 PrimeC 组 NfL 降幅大于安慰剂组，基线功能较高者差异更明显，并拟把该分析及其他未发表数据纳入加拿大申报资料。公司把目标提交时间从 2026 年 12 月改至 2027 年 3 月，称 Health Canada 对调整时间无异议。",
+      "evidenceType": "申办方 · 已完成 IIb 期新增生物标志物分析 / 申报时间更新",
+      "sourceDate": "2026-11-02",
+      "checkedAt": "2026-11-09",
+      "nctIds": [
+        "NCT05357950"
+      ],
+      "caveat": "新闻稿未提供 NfL 效应量、p 值或亚组人数，且进一步统计分析仍在进行；NfL 是生物标志物，不等同于临床获益。PARADIGM 既往随机期 6 个月 ALSFRS-R 组间差异未达统计学显著。加拿大申报仍是计划，未提交、未获批。",
+      "sources": [
+        {
+          "title": "NeuroSense：为 PrimeC 加拿大申报补充新 NfL 数据",
+          "url": "https://www.prnewswire.com/news-releases/neurosense-to-strengthen-primec-canadian-als-submission-with-new-nfl-data-302926488.html"
+        },
+        {
+          "title": "ClinicalTrials.gov：PARADIGM / NCT05357950",
+          "url": "https://clinicaltrials.gov/study/NCT05357950"
+        }
+      ]
+    },
+    {
+      "id": "fda-cgt-potency-guidance-2026-11",
+      "drug": "FDA 细胞与基因治疗产品效价保证指南（非 ALS 专项）",
+      "category": "regulatory",
+      "phase": "不适用；产品开发至上市后阶段的通用指南",
+      "regulatoryStatus": "FDA 于 2026-11-02 发布最终指南，取代 2011 年 CGT 效价测试指南；指南为非约束性建议，不是 ALS 产品批准、临床许可或安全性决定。",
+      "findings": "FDA 发布通用 CGT 效价保证指南，建议以科学与风险为基础，将效价策略贯穿制造工艺设计与控制、原料控制、过程检测及批次放行。该指南未点名 ALS 产品或试验，但可能与采用细胞/基因治疗模式的 ALS 项目有关。",
+      "evidenceType": "FDA · 最终行业指南 / 通用监管政策",
+      "sourceDate": "2026-11-02",
+      "checkedAt": "2026-11-09",
+      "nctIds": [],
+      "caveat": "该指南并非 ALS 专项，且 FDA 明确其为非约束性建议；不代表任何 ALS 候选药获批、IND 获准、试验启动或有效。",
+      "sources": [
+        {
+          "title": "FDA：Potency Assurance for Cellular and Gene Therapy Products 指南",
+          "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-potency-assurance-cellular-and-gene-therapy-products"
+        },
+        {
+          "title": "FDA：CGT 开发与质量公告",
+          "url": "https://www.fda.gov/news-events/press-announcements/fda-provides-clarity-support-cell-and-gene-therapy-development-and-quality"
+        },
+        {
+          "title": "FDA：最终指南 PDF",
+          "url": "https://www.fda.gov/media/196183/download"
+        }
+      ]
+    },
     {
       "id": "ni112-phase1-registration-2026-10",
       "drug": "NI112（antisense nanoligomer）",
